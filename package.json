@@ -9,7 +9,7 @@
   "author": "Avi Neer",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "mongojs": "^2.5.0"
